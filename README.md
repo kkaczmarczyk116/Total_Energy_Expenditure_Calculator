@@ -12,3 +12,10 @@ It also incorporates a GUI (PyQt5). This enables python to be used an alternativ
 
 The following are screenshots from the application
 
+![cal_git_1](https://user-images.githubusercontent.com/77896639/113645444-84863180-964c-11eb-958c-d0699f69af0e.PNG)
+
+Shows error message when information is missing
+![cal_git_2](https://user-images.githubusercontent.com/77896639/113645613-cb742700-964c-11eb-89e6-7f1ad5a54bea.PNG)
+
+Outputs a calendar/table for each day(Depending on the duration the users chooses)
+![cal_git_3](https://user-images.githubusercontent.com/77896639/113645658-e0e95100-964c-11eb-9fe8-e2515e5a3e2e.PNG)
