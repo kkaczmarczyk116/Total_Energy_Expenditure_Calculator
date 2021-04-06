@@ -9,3 +9,6 @@ I really enjoy going to the gym, and I think it not only benefits your physical 
 7. Duration
 
 It also incorporates a GUI (PyQt5). This enables python to be used an alternative application development language to C++ on all supported platforms including iOS and android. 
+
+The following are screenshots from the application
+
